@@ -4,4 +4,4 @@ gameboy_macro_tv_out_usb_c
 
   * [Blog post](https://facelesstech.wordpress.com/2024/04/27/gameboy-macro-tv-out-via-usb-c/)
 
-  * [Youtube like](https://youtu.be/vSM3D0GghRg)
+  * [Youtube link](https://youtu.be/vSM3D0GghRg)
